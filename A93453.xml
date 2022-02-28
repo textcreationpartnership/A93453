@@ -1,0 +1,329 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Sober dialogue between a country Friend, a London Friend, and one of G.K.'s Friends concerning the great difference of faith and doctrin betwixt many of the Quakers, especially their principal teachers and him.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93453</idno>
+            <idno type="STC">Wing S4408</idno>
+            <idno type="STC">ESTC R42883</idno>
+            <idno type="EEBO-CITATION">38875895</idno>
+            <idno type="OCLC">ocm 38875895</idno>
+            <idno type="VID">152383</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93453)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152383)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2295:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Sober dialogue between a country Friend, a London Friend, and one of G.K.'s Friends concerning the great difference of faith and doctrin betwixt many of the Quakers, especially their principal teachers and him.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author, and are to be sold by B. Aylmer ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Filmed copy includes, at end, title page only, of "An answer to a  late pamphlet called a sober dialogue" (Wing 2nd. ed. A3305A, found at reel 1901:10).</note>
+                  <note>Reproduction of original in: Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Keith, George, 1639?-1716.</term>
+               <term>Society of Friends --  Keithian controversy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152383:9" rendition="simple:additions"/>
+            <p>AN ANSWER To a Late PAMPHLET, Called a <hi>Sober Dialogue,</hi> Between a <hi>Scotch Presbyterian</hi> a <hi>London Church-man,</hi> and a <hi>Real Quaker,</hi> ſcandalouſly reflecting on the <hi>Church of England,</hi> As if her <hi>Doctrine and COmmon-Prayer</hi> did juſtifie the Antichriſtian Doctrine, of the Real Quaker, <hi>viz. That the Light Within, whither in Heathen, or Chriſtian is ſufficient to Salvation without any thing elſe;</hi> wherein the plain Deiſm and Anti-Chriſtian Principles of the Real Quaker and his Party, and the pretended Church man, are plainly detected.</p>
+            <p>By a Friend to the Author of the Dialogue, called, a <hi>Sober Dialogue,</hi> between a <hi>Country Friend,</hi> a <hi>London Friend,</hi> and one of <hi>G. K.</hi>'s <hi>Friends.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Sam. Clark</hi> in <hi>George-yard</hi> in <hi>Lombard-ſtreet.</hi> 1698/9.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:152383:1"/>
+            <pb n="1" facs="tcp:152383:1" rendition="simple:additions"/>
+            <head>A SOBER DIALOGUE BETWEEN A <hi>Country Friend,</hi> a <hi>Lon<g ref="char:EOLhyphen"/>don Friend,</hi> and one of <hi>G. K</hi>'s. <hi>Friends,</hi> Concerning <hi>The great Difference of <hi>Faith</hi> and <hi>Doctrin</hi> betwixt many of the <hi>Quakers,</hi> eſpecially their Principal Teachers and him.</hi>
+            </head>
+            <sp>
+               <speaker>Lond. Friend</speaker>
+               <p>HOW doſt thee do my Friend? How doe Friends in your Parts? Are you ſtill quiet among your ſelves, and all of one mind?</p>
+            </sp>
+            <sp>
+               <speaker>Country Friend,</speaker>
+               <p>No, we are far from being quiet among our ſelves.</p>
+            </sp>
+            <sp>
+               <speaker>Lond. Fr.</speaker>
+               <p>What is the matter with you?</p>
+            </sp>
+            <sp>
+               <speaker>Co. Fr.</speaker>
+               <p>The matter, why the very Foundation of Truth is ſtruck at by <hi>G. K.</hi> his Books fill us with ſtrange apprehen<g ref="char:EOLhyphen"/>ſions; he tells us, and that from plain Scripture, that the <hi>Light within</hi> will not ſave us without ſomething elſe.</p>
+            </sp>
+            <sp>
+               <speaker>Lond. Fr.</speaker>
+               <p>Well, and what ſay Friends to it?</p>
+            </sp>
+            <sp>
+               <pb n="2" facs="tcp:152383:2"/>
+               <speaker>Co. Fr.</speaker>
+               <p>Say, why, they know not what to ſay, and moſt of our ſober and think<g ref="char:EOLhyphen"/>ing Friends are at a ſtand, doubting they have been miſlead; ſome diligently ſearch<g ref="char:EOLhyphen"/>ing the Scriptures find that we are miſta<g ref="char:EOLhyphen"/>ken, for that in Men that reproves for Sin, is only the Law written in the Heart, there accuſing or excuſing; and withal we find that Chriſt Jeſus ſaith, <hi>that he came not to condemn the World but to ſave it;</hi> ſaying, that it was <hi>Moſes</hi> or the Law that did condemn.</p>
+            </sp>
+            <sp>
+               <speaker>Lond. Fr.</speaker>
+               <p>What, are all our Miniſters ſo Blind as not to know the Doctrin of the Law from Chriſt's Doctrin? why, the Law can make nothing perfect as pertaining to the Conſcience, but the bringing in of a better hope; ſure this hope muſt be in Chriſt Jeſus, and not in that which condemns for Sin; for my Friend, what ſimply condemns us does not forgive us, but as <hi>G. K.</hi> ſays, there muſt be one to forgive our Treſpaſſes, as well as a Judge to Condemn us; ſo that it is plain that the <hi>Light Within</hi> cannot ſave without ſomething elſe.</p>
+            </sp>
+            <sp>
+               <speaker>Co. Fr.</speaker>
+               <p>Blind, I fear they are blind in<g ref="char:EOLhyphen"/>deed, and have led too many of us into the Ditch. On my word, 'tis a horrible miſtake to ſay, that what does Reprove
+<pb n="3" facs="tcp:152383:2"/>can Save us; they may as well ſay, that <hi>John</hi> the Baptiſt was Chriſt.—But prethee what ſays <hi>W. P.</hi> to this?</p>
+            </sp>
+            <sp>
+               <speaker>Lon. Fr.</speaker>
+               <p>Why, he ſays Truth is the ſame as ever it was; and ſays, <hi>Friends</hi> keep to your <hi>Ancient Teſtimonies,</hi> and Truth will be over the heads of all its Op<g ref="char:EOLhyphen"/>poſers.</p>
+            </sp>
+            <sp>
+               <speaker>Co. Fr.</speaker>
+               <p>And what ſays <hi>G. W.?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lon. Fr.</speaker>
+               <p>Why <hi>G. W.</hi> is peviſh, and does nothing as I hear but revile <hi>G. K.</hi> and has ſent him his Curſe.</p>
+            </sp>
+            <sp>
+               <speaker>Co. Fr.</speaker>
+               <p>His Curſe man! and what will that do?</p>
+            </sp>
+            <sp>
+               <speaker>Lon. Fr.</speaker>
+               <p>Do, why it only ſets us fur<g ref="char:EOLhyphen"/>ther adrift from the Doctrine of Chriſt, which ſays, Bleſs and Curſe nor.</p>
+            </sp>
+            <sp>
+               <speaker>Co. Fr.</speaker>
+               <p>Has <hi>G. K.</hi> ever Curs'd any of them?</p>
+            </sp>
+            <sp>
+               <speaker>Lon. Fr.</speaker>
+               <p>No, not that ever I heard.</p>
+            </sp>
+            <sp>
+               <speaker>Co. Fr.</speaker>
+               <p>Prethee what doſt thou think of theſe things?</p>
+            </sp>
+            <sp>
+               <speaker>Lon. Fr.</speaker>
+               <p>I think they do not rightly un<g ref="char:EOLhyphen"/>derſtand what Truth is; Truth (as <hi>W. P.</hi> ſays) never changes, but we are always changing; for how unlike are we to what we were when firſt a People? I won<g ref="char:EOLhyphen"/>der <hi>W. P.</hi> ſhould ſay mind your <hi>Ancient Teſtimonies,</hi> when he well knows that the Ancienter the Teſtimonies, the greater
+<pb n="4" facs="tcp:152383:3"/>were the Imaginations and Errors, wit<g ref="char:EOLhyphen"/>neſs his <hi>Sandy Foundation Shaken:</hi> I fear our <hi>Friends</hi> are too like the blind Phari<g ref="char:EOLhyphen"/>ſees, which preferr'd their <hi>Lamp-light</hi> be<g ref="char:EOLhyphen"/>fore the Light of the Sun; I confeſs the Light of the Sun is a true unchangeable Light, but all Lights muſt give way when he appears.</p>
+            </sp>
+            <stage>In the midſt of this Diſcourſe ſteps in one of <hi>G. K.</hi>'s <hi>Friends,</hi> and be<g ref="char:EOLhyphen"/>gins thus.</stage>
+            <sp>
+               <p>FRIENDS,<lb/>
+I Am glad to hear you Diſcourſe thus ſenſibly; and I beſeech you rightly to conſider your own Diſcourſe, concerning the <hi>Light Within</hi> being ſufficient to Save without any thing elſe: Pray let us not borrow other Peoples Eyes and Legs, but ſee and walk our ſelves; let us go to the very firſt of the Creation of God, which anſwers ſo exactly to the Second, that it may be called the Looking-glaſs of the Se<g ref="char:EOLhyphen"/>cond Creation, or New Creation. Pray was not the univerſal Light the Firſt days Work in the Old Creation? So in the New, Was not the Sun, Moon and Stars the Fourth days Work? by which all things revived to ſuch a proportion of Life
+<pb n="5" facs="tcp:152383:3"/>as to produce Seed in themſelves; which could never have been brought to perf<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ction by the Firſt Light, without the Light of the Sun. So, as to the New Creation, There is no Perfection under the Law, untill Chriſt came who was to be Revealed the Fourth day, <hi>i. e.</hi> the Fourth Thouſand Year of the World; and is that true Son of God by whom we muſt bring forth Fruit, whoſe Seed is in it ſelf as it holds in the Natural, the Nature of him abiding in us; for without him we can do nothing.</p>
+            </sp>
+            <sp>
+               <speaker>Lon. Fr.</speaker>
+               <p>Prethee <hi>Friend</hi> what is the be<g ref="char:EOLhyphen"/>nefit then of the Light in every Man, or the Firſt days Work, as thou call'ſt it?</p>
+            </sp>
+            <sp>
+               <speaker>G. K.'s Fr.</speaker>
+               <p>You may as well ask me what benefit it is for the Maſter-builder to lay the Foundation firſt of his Building before he finiſheth it; or if he ſhould go on no further, whether Men would not ſay this Man hath laid a good Foundation, [the Law or Light in every Man being a good Foundation of Morality,] but why goes he not on to finiſh it? Either he un<g ref="char:EOLhyphen"/>derſtands not, or is not able, this is what Men uſually ſay.</p>
+               <p>But my <hi>Friends,</hi> The great Builder and Creator did finiſh the firſt Work as a Draught of the Second; and be you aſ<g ref="char:EOLhyphen"/>ſured
+<pb n="6" facs="tcp:152383:4"/>that the New Teſtament Creation as far exceeds that Old, as the Fourth days Work did exceed the Firſt.</p>
+            </sp>
+            <sp>
+               <speaker>Lon. Fr.</speaker>
+               <p>What, then I perceive thou thinkeſt that <hi>Friends</hi> Diſpenſation is only the Firſt days Work.</p>
+            </sp>
+            <sp>
+               <speaker>G. K.'s Fr.</speaker>
+               <p>Why, verily, as to <hi>Friends</hi> I cannot give a ſatisfactory judgment con<g ref="char:EOLhyphen"/>cerning them, for I find no where in all the holy Scripture ſuch a People ſet down there for the People of God, but ſeveral hints to the contrary. I muſt needs ſay they have ill marks, but I hope it may be attributed to the Ignorance of moſt of them. We know that in the laſt times ſome will have ſtrange Pretenſions and Hereſies; even denying the Lord that bought them with his moſt precious Blood; and denying the Reſurrection of that holy Body, with its Aſcenſion into Heaven, and that that very Body is now in Heaven, as a Wall of Salvation between us and the Juſtice of Almighty God, which otherwiſe would take Vengeance on our daily and hourly offences: For my part, I do admire that any People profeſſing Godlineſs can pretend to be in the Faith, and not faithfully believe ſuch things.</p>
+            </sp>
+            <sp>
+               <speaker>Lon. Fr.</speaker>
+               <p>Doſt thou believe that Fleſh and Blood can inherit the Kingdom of God?</p>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:152383:4"/>
+               <speaker>G. K.'s Fr.</speaker>
+               <p>Yea, The Fleſh and Blood of our Lord and Saviour, which was ne<g ref="char:EOLhyphen"/>ver born to ſee Corruption, neither was of any corruptible Seed.</p>
+            </sp>
+            <sp>
+               <speaker>Co. Fr.</speaker>
+               <p>Why did Chriſt ſay to the Jews, <hi>John</hi> 6.63. It is the Spirit that quickneth, the Fleſh profiteth nothing.</p>
+            </sp>
+            <sp>
+               <speaker>G. K.'s Fr.</speaker>
+               <p>Why <hi>Friend</hi> doſt thou think that Chriſt ſpake to the Jews of his own Fleſh and Blood, which he ſaid he would give for the life of the World; and if that Fleſh and Blood did not profit us, what did that gift avail us?</p>
+               <p>When Chriſt ſaid to <hi>Nicodemus</hi> unleſs a Man be born again, &amp;c. <hi>Nicodemus</hi> underſtood that he muſt be born again of his natural Father and Mother as new Fleſh; but Chriſt plainly told him that that which was born of the Fleſh was Fleſh, and that that was born of the Spirit was Spirit; and farther ſaid, that the Wind bloweth where it liſteth, and that he only heard the ſound thereof, but knew not whence it came or whether it went, and ſo ſaid our Lord is every one that is born of the Spirit: I hope you confeſs that ſuch a ſpiritual Birth far ex<g ref="char:EOLhyphen"/>ceeds that Fleſh and Blood which we take from our Parents, and is polluted with Original Sin: Our Lord might well ſay
+<pb n="8" facs="tcp:152383:5"/>that ſuch Fleſh and Blood profited no<g ref="char:EOLhyphen"/>thing, altho' we make ſo much ado about it, unleſs the Spirit blow upon it, and change it from Corruption to Incorrup<g ref="char:EOLhyphen"/>tion.</p>
+            </sp>
+            <sp>
+               <speaker>Lon. Fr.</speaker>
+               <p>But what did Chriſt mean by ſaying, <hi>Nicodemus</hi> underſtood not when he ſpake of natural things?</p>
+            </sp>
+            <sp>
+               <speaker>G. K.'s Fr.</speaker>
+               <p>Why, is not the blowing of the Wind natural? and yet who can tell from whence it comes, or whether it goes? How ſhould then natural Men judg of the coming and going of the Spirit? They can poſſibly tell when it is preſent and when it is abſent; but from whence it comes or whether it goes they know not.</p>
+            </sp>
+            <sp>
+               <speaker>Co. Fr.</speaker>
+               <p>Prethee tell me, What doſt thou think of the <hi>Light</hi> in every Man's Conſcience?</p>
+            </sp>
+            <sp>
+               <speaker>G. K.'s Fr.</speaker>
+               <p>The <hi>Light</hi> in every Man is, that Bleſſing which doubtleſs was given to <hi>Japhets</hi> Off-ſpring, the Iſlands of the Gen<g ref="char:EOLhyphen"/>tiles, they not having the benefit of the written Law, leaving the Country where <hi>Shem</hi>'s Stock was, which had the Law in a far more glorious manner than the Gentiles had, as being the Elder Son of <hi>Noah,</hi> had the firſt great Bleſſing of the knowledge of the Law; but the Mercies
+<pb n="9" facs="tcp:152383:5"/>of God was ſuch, that he left himſelf not without a Witneſs in the Gentiles that did accuſe or excuſe them; which ſhew'd the Law written in the Heart, and that they did by Nature the things contained in the Law. So that you may ſee that the Law Outward, and the Law Inward are the ſame thing as to juſt and equal do<g ref="char:EOLhyphen"/>ing; as for Inſtance, that paſſage of <hi>Corne<g ref="char:EOLhyphen"/>lius;</hi> who was ſaid to be a juſt Man, and one that feared and worſhiped God, and in good Works did exceed many that were called Chriſtians; however, all this Man's Righteouſneſs could not ſave him. But at ſuch a time when greater <hi>Light</hi> was revea<g ref="char:EOLhyphen"/>led, an Angel muſt be ſent to him to tell him that he muſt ſend for one <hi>Simon Peter,</hi> which was to tell him words by which he might be Saved. So here you ſee plainly that this Man was not to be Saved by the <hi>Light Within,</hi> without ſomething elſe, that is, Chriſt without, and the Faith in Chriſt, which comes (ordinarily) by outward Preaching; and the Apoſte ſays, that Faith comes by hearing, and hearing by the Word of God Preach'd. Pray what did <hi>Peter</hi> Preach to <hi>Cornelius?</hi> Was it not moſtly of Chriſt's Miracles, of his Death and Reſurrection, to which all the Prophets did witneſs, that thro' his Name was
+<pb n="10" facs="tcp:152383:6"/>remiſſion of Sin only to be had? And at the very Inſtant, while the words were ſpeaking did not the Holy Ghoſt fall on them which heard the Word, to the A<g ref="char:EOLhyphen"/>ſtoniſhm<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt of the Jews that came with <hi>Peter?</hi> Now, I hope, you ſee what muſt be added to that <hi>Light</hi> before true Salva<g ref="char:EOLhyphen"/>tion can be known or enjoyed.</p>
+            </sp>
+            <sp>
+               <speaker>Lon. Fr.</speaker>
+               <p>Since we have gone thus far, what think'ſt thou of <hi>Water Baptiſm</hi> and the <hi>Supper?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. K.'s Fr.</speaker>
+               <p>If you pleaſe you may ſee what <hi>Peter</hi> ſays to thoſe very Perſons that had juſt received the Holy Ghoſt; <hi>Can any man forbid water, that thoſe ſhould not be baptized:</hi> and he commanded them to be Baptized in the Name of the Lord, that was, in the Name of Jeſus. Now, how your <hi>Friends</hi> can hide themſelves here I know not: Bleſſed be God for the New Teſtament, and for the Sound Doctrine contained there; and our Lord ſaid, that thoſe that heard thoſe Sayings of his, and did them, were wiſe indeed, and built on that Rock which the Gates of Hell ſhould not prevail againſt: The Lord help us to flee from vain imaginations, which indeed is a ſandy and ſhaken Founda<g ref="char:EOLhyphen"/>tion.</p>
+            </sp>
+            <sp>
+               <speaker>Co. Fr.</speaker>
+               <p>Well now, if thee pleaſes, con<g ref="char:EOLhyphen"/>cerning the <hi>Supper,</hi> what haſt thou to ſay for that?</p>
+            </sp>
+            <sp>
+               <pb n="11" facs="tcp:152383:6"/>
+               <speaker>G. K.'s Fr.</speaker>
+               <p>I have this to ſay for the Lord's <hi>Supper:</hi> We own that 'tis ſaid, that he that does Believe and is Baptized ſhall be Saved, his Sins being forgiven and remitted. Pray, is not the Forgiver of our Sins worth our remembrance; ſince Chriſt has paid ſo great a Debt for us as his own Blood: Was ſuch Ingratitude ever heard of ſince the World began, that a People ſhould forget ſo great and ſo good a Lord, as not to remember him in his own Ordination, however ſimple it may appear, 'tis precious to the little ones of the Kingdom.</p>
+            </sp>
+            <sp>
+               <speaker>Co. Fr.</speaker>
+               <p>Why doſt thou think we do not remember the Lord Jeſus, becauſe we do not receive the Bread and the Wine?</p>
+            </sp>
+            <sp>
+               <speaker>G. K.'s Fr.</speaker>
+               <p>I do think that thoſe that break one of the leaſt of Chriſt's Com<g ref="char:EOLhyphen"/>mandments, ſhall be called the leaſt in the Kingdom of Heaven. Pray, if to break one of the leaſt will be ſuch a leſſening of our Happineſs, what muſt the breaking of the greateſt be, is it ſeemly for Chil<g ref="char:EOLhyphen"/>dren to be wiſer in their own Eye, than their Fathers, or Subjects, than their King, or Malefactors than their Judges? yet ſo it has been ſometimes, but for a People to be wiſer than their God is mon<g ref="char:EOLhyphen"/>ſtrous; had the Lord commanded ſome
+<pb n="12" facs="tcp:152383:7"/>great thing, as the <hi>Heathen</hi> Gods did, that we ſhould Sacrifice our Children to him, than we might have ſhrunk from it; but ſuch things are far from him, only ha<g ref="char:EOLhyphen"/>ving commanded us to remember him, in that which is eaſily had, and that which is our common Food too, in the eat<g ref="char:EOLhyphen"/>ing of that Bread to remember the Lord, how his Body was broken for us, and in drinking of that Cup to remember us, how he ſhed his precious Blood for us; and likewiſe to know that he is that living and ſpiritual Bread, which if a Man feeds on, he ſhall have everlaſting Life. His Fleſh being Meat indeed, and his Blood Drink indeed.</p>
+            </sp>
+            <sp>
+               <speaker>Co. Fr.</speaker>
+               <p>Well, but if we receive him in Spirit, will not that do?</p>
+            </sp>
+            <sp>
+               <speaker>G. K. Fr.</speaker>
+               <p>You cannot receive him, but as he is, both Body and Spirit, that which God hath put together is not to be divid<g ref="char:EOLhyphen"/>ed; therefore you muſt receive him, ei<g ref="char:EOLhyphen"/>ther as the Man Chriſt Jeſus, or not at all; that is with a lively Faith to believe and to remember how that Body Suffered for us on the Croſs, and is now in Heaven, and left us this Commandment, thus, <hi>To remember him until he come in Power and great Glory.</hi> Now whether it is better to obey God or Man, judge ye? Our Lord
+<pb n="13" facs="tcp:152383:7"/>ſaid, <hi>Do this in remembrance of me<g ref="char:punc">▪</g>
+                  </hi> Some Men ſay it is but a Shadow, and they are come to the Subſtance: Well, I will ask thee this Queſtion; art thou in thy mor<g ref="char:EOLhyphen"/>tal Body able to ſtand before the Son of God, ſhould he appear to thee, wouldeſt thou not be Terrified and Aſtoniſhed, the beſt of Men ever were ſo, and believe, me, that the ſight of an Angel would do it to the beſt of you, who is much leſs in Glory then the Chriſt of God; and ſince we are ſuch weak Creatures that we cannot be hold his Glory as he is in that glorified Body, then ought we not to be mighty thankful that he is pleaſed to condeſcend thus far to our Weakneſs, that ſince we cannot behold him as he is, that he has been pleaſed to leave us ſuch a Looking-glaſs wherein we may diſcern the Lord's Crucified Body, and in that to remember what he has done for us, enough ſurely to engage us to remember him according to his own Preſcription.</p>
+               <p>I am perſwaded had <hi>G. F.</hi> given any Commandments they had been obeyed: As for Inſtance; how has he ſet up many Orders, which he never had from the Holy Scriptures; and do not ſome Men make the Commandments of our Lord and Sa<g ref="char:EOLhyphen"/>viour of none effect, through their own
+<pb n="14" facs="tcp:152383:8"/>Traditions, Teaching for Doctrin the Commandments of Men.</p>
+               <p>Our Lord ſays, <hi>Judge not, leaſt thou be judged,</hi> but your Friends ſay, they have Power to Pronounce Plagues and Judg<g ref="char:EOLhyphen"/>ments on others, and that when they are dead too, if they pleaſed not them, ſay they are gone to the Pit.</p>
+               <p>Our Lord ſaid, <hi>Bleſs and Curſe not,</hi> but your Friends doe ſend their Curſes, as <hi>G. W.</hi> does his to <hi>G. K.</hi>
+               </p>
+               <p>Chriſt bid his Diſciples not to Judge thoſe that caſt out Devils in his Name, although they followed not them, but ſaid, they that were not againſt them, were for them.</p>
+               <p>But your Friends ſay, all that follow not them are out of the Truth.</p>
+               <p>Chriſt ſays, <hi>When you have done all, or the utmoſt you ought to do, ſay, that you are but unprofitable Servants;</hi> but ſome of your Friends ſay plainly they will not ſay ſo, for they are profitable Servants.</p>
+               <p>Chriſt ſays, <hi>Look unto me all the ends of the Earth and be you ſaved.</hi>
+               </p>
+               <p>But your Friends ſay, look to the <hi>Light within</hi> only, and be you ſaved, and where in all the Writings do they direct People to the Lord Jeſus without them, as the Object of their Faith for Juſtification
+<pb n="15" facs="tcp:152383:8"/>and Redemption? Do they not always ſay, Friends mind that of God in your own Hearts, not ſaying one word of the neceſſity of Faith in the Crucified Jeſus, or of his Reſurrection or Aſcenſion into Heaven: I have often heard them ſay, that Fleſh and Blood cannot inherit the Kingdom of God, making no difference between the Fleſh of Chriſt, which was not born of corruptible Seed, and their own corruptible Fleſh, which muſt ſee Corrupti<g ref="char:EOLhyphen"/>on. Chriſt ſaid in his laſt Prayer, <hi>Father I will that they that thou haſt given me may be with me where I am, that they may be<g ref="char:EOLhyphen"/>hold my glory:</hi> And if the Glory of Chriſt be no where to be ſeen but in every Man; Pray what Glory is ſeen there of Chriſt? may they not all ſay, Lord have mercy upon us miſerable Sinners, that ra<g ref="char:EOLhyphen"/>ther darkens his Glory than exalts it.</p>
+            </sp>
+            <sp>
+               <speaker>G. K.'s Fr.</speaker>
+               <p>Pray what makes ſome of your Friends, when they hear of Chriſt's being at the right Hand of God in Hea<g ref="char:EOLhyphen"/>ven, to ſay, what would you have us believe in two Chriſt's? We own to o<g ref="char:EOLhyphen"/>ther Chriſt than what is <hi>within</hi> us, or any other Heaven than what is within us, or any other Reſurrection but what is with<g ref="char:EOLhyphen"/>in us. Is not all this very fine Doctrin? Pray then if this be true, whether muſt all
+<pb n="16" facs="tcp:152383:9"/>our Spirits go when we dye? What, muſt all go into the Quakers for Reſt and Peace? For if they will own neither God or Chriſt, or Heaven or Hell, but what is in them, what ſhall I ſay? This is like the reſt of their Contradictions, both a<g ref="char:EOLhyphen"/>gainſt Scripture and right Reaſon.</p>
+               <p>Pray where had your Women their Commiſion, for their aſſuming Church Government, other then from <hi>G. F.</hi> The Apoſtle forbids it in ſeveral places, but ſome of them to my knowledge have ſaid, that they are farther Englightened than they were in the Apoſtles Days; if they could make that out, it were ſome<g ref="char:EOLhyphen"/>thing for them, but I ſay as the Apoſtle <hi>Paul</hi> ſaid, that if he or an Angel from Heaven did Preach any other Goſpel than what was Preached by Chriſt and his A<g ref="char:EOLhyphen"/>poſtles, let him be accurſed. My Friends, 'tis a dangerous thing to bring in new Doctrin, I do believe the Scripture was given for Doctrin, for Reproof, for Cor<g ref="char:EOLhyphen"/>rection, that the Man of God may be made perfect, and all they that Preach according to that Rule; Peace on them, and all the <hi>Iſrael</hi> of God, and all they that Preach not according to that Rule, it is becauſe their is no <hi>Light</hi> in them.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>
+               <hi>London,</hi> Printed for the Author, And are to be Sold by <hi>B. Aylmer</hi> at the three <hi>Pidgeons</hi> over againſt the <hi>Royal-Exchange, Cornhil,</hi> 1699.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
